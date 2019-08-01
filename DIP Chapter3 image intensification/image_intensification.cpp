@@ -17,8 +17,8 @@ using namespace std;
 using namespace cv;
 
 //两种卷积方式
-//#define filter2D_convolution
-#define my_convolution
+#define filter2D_convolution
+//#define my_convolution
 
 //三种二值化方式
 //#define Only_threshold
